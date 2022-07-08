@@ -1,4 +1,4 @@
-### Hi there , my name´s Ângelo Miguel, i´m Front-End student and study information systems at UNIFACS
+### Hi there , my name´s Ângelo Miguel, i´m Front-End student and study information systems 
  ##
 
 
